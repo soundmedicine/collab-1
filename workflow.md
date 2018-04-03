@@ -1,12 +1,18 @@
 ## Workflow
 
-Roberto creates repo, adds Milo as collaborator, and copies over app folder to new repository.
-Roberto adds initial commit and pushes to repository.
-Milo clones repository, and adds/completes task, then adds, commits, and pushes to repo.
-Roberto pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
-Milo pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
-Steps 4-5 are repeated until drill is complete.
-Once final push is finished, submit link to this repo.
+1. Roberto creates repo, adds Milo as collaborator, and copies over app folder to new repository.
+
+2. Roberto adds initial commit and pushes to repository.
+
+3. Milo clones repository, and adds/completes task, then adds, commits, and pushes to repo.
+
+4. Roberto pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
+
+5. Milo pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
+
+6. Steps 4-5 are repeated until drill is complete.
+
+7. Once final push is finished, submit link to this repo.
 
 
 
